@@ -1,0 +1,12 @@
+.body{background-color: lightblue;}
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-size:cover;
+}
+img{
+    margin-left: 5%;
+    margin-top: 20px;
+    width: 190px;
